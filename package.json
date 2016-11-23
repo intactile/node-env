@@ -1,0 +1,22 @@
+{
+  "name": "node-env",
+  "version": "1.0.0",
+  "description": "Check the environment type: test, debug, development, production.",
+  "main": "node-env.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intactile/node-env.git"
+  },
+  "keywords": [
+    "environment"
+  ],
+  "author": "intactile",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/intactile/node-env/issues"
+  },
+  "homepage": "https://github.com/intactile/node-env#readme"
+}
