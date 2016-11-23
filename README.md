@@ -1,7 +1,10 @@
 # node-env
 Check the environment type: test, debug, development, production. 
 
-## usage 
+## Install 
+npm install https://github.com/intactile/node-env.git --save
+
+## Usage 
 Use the process.env node object.
 
 Set the environement type :
