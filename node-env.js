@@ -1,7 +1,3 @@
-exports.printMsg = function() {
-  console.log("node-env module...");
-}
-
 const isEnv = env => (process.env.NODE_ENV === env);
 const isDebug = () => process.env.DEBUG === 'true';
 
