@@ -1,6 +1,6 @@
 {
   "name": "node-env",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Check the environment type: test, debug, development, production.",
   "main": "node-env.js",
   "scripts": {
@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/intactile/node-env/issues"
   },
-  "homepage": "https://github.com/intactile/node-env#readme"
+  "homepage": "https://github.com/intactile/node-env#readme",
+  "devDependencies": {
+    "eslint-plugin-class-property": "^1.0.1",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jasmine": "^2.1.0",
+    "eslint-plugin-json": "^1.2.0",
+    "jasmine": "^2.5.2"
+  }
 }
