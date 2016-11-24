@@ -1,6 +1,6 @@
 {
   "name": "@intactile/node-env",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Check the environment type: test, debug, development, production.",
   "main": "node-env.js",
   "scripts": {
