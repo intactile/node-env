@@ -1,10 +1,10 @@
 # node-env
-Check the environment type: test, debug, development, production. 
+Check the environment type: test, debug, development, production.
 
-## Install 
+## Install
 npm install @intactile/node-env
 
-## Usage 
+## Usage
 Use the process.env node object.
 
 Set the environement type :
@@ -13,3 +13,5 @@ Set the environement type :
 
 And ckeck the enviroment type with one of :
 isTest(), isDebug(), isDev(), isProd()
+
+https://travis-ci.org/intactile/node-env.svg?branch=master
