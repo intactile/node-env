@@ -14,4 +14,5 @@ Set the environement type :
 And ckeck the enviroment type with one of :
 isTest(), isDebug(), isDev(), isProd()
 
-https://travis-ci.org/intactile/node-env.svg?branch=master
+## Status
+[![Build Status](https://travis-ci.org/intactile/node-env.svg?branch=master)](https://travis-ci.org/intactile/node-env)
